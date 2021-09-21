@@ -31,4 +31,18 @@ Better way 24. None과 독스트링을 사용해 동적인 디폴트인자를 �
 Better way 25. 위치로만 인자를 지정하게 하거나 키워드로만 인자를 지정하게 해서 함수 호출을 명확하게 만들라   
 Better way 26. functools.wrap을 사용해 함수 데코레이터를 정의하라   
 
+### Chapter 4. 컴프리헨션과 제너레이터
+Better way 27. map과 filter 대신 컴프리헨션을 사용하라   
+Better way 28. 컴프리헨션 내부에 제어 하위 식을 세 개 이상 사용하지 말라   
+Better way 29. 대입식을 사용해 컴프리헨션 안에서 반복 작업을 피하라   
+Better way 30. 리스트를 반환하기보다는 제너레이터를 사용하라   
+Better way 31. 인자에 대해 이터레이션할 때는 방어적이 돼라   
+Better way 32. 긴 리스트 컴프리헨션보다는 제너레이터 식을 사용하라   
+Better way 33. yield from을 사용해 여러 제너레이터를 합성하라   
+Better way 34. send로 제너레이터에 데이터를 주입하지 말라   
+Better way 35. 제너레이터 안에서 throw로 상태를 변화시키지 말라   
+Better way 36. 이터레이터나 제너레이터를 다룰 때는 itertools를 사용하라   
+
+
+
 
