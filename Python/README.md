@@ -43,6 +43,13 @@ Better way 34. send로 제너레이터에 데이터를 주입하지 말라
 Better way 35. 제너레이터 안에서 throw로 상태를 변화시키지 말라   
 Better way 36. 이터레이터나 제너레이터를 다룰 때는 itertools를 사용하라   
 
-
+### Chapter 5. 클래스와 인터페이스
+Better way 37. 내장 타입을 여러 단계로 내포시키기보다는 클래스를 합성하라   
+Better way 38. 간단한 인터페이스의 경우 클래스 대신 함수를 받아라   
+Better way 39. 객체를 제너릭하게 구성하려면 @classmethod를 통한 다형성을 활용하라   
+Better way 40. super로 부모 클래스를 초기화하라   
+Better way 41. 기능을 합성할 때는 믹스인 클래스를 사용하라   
+Better way 42. 비공개 애트리뷰트보다는 공개 애트리뷰트를 사용하라   
+Better way 43. 커스텀 컨테이너 타입은 collections.abc를 상속하라   
 
 
